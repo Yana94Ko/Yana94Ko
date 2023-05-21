@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--깃허브 most used language START
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-깃허브 most used language END-->
 
 <!--깃허브 상태 START
 <picture>
@@ -43,7 +40,7 @@ Here are some ideas to get you started:
 [![Yana94Ko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko)](https://github.com/anuraghazra/github-readme-stats)
 깃허브 language END-->
 
-<!--깃허브 most used language START-->
+<!--깃허브 most used language START
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yana94Ko&layout=compact)
 <!--깃허브 most used language END-->
 
