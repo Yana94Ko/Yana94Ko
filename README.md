@@ -39,24 +39,12 @@ Here are some ideas to get you started:
 
 <!-- wakatime START-->
 <!-- wakatime START-->
-
+<p>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-16%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-14.8%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
-**🐱 저의 GitHub 정보에요.** 
-
-> 📦 GitHub의 699.3 kB만큼의 저장소를 사용하고 있어요. 
- > 
-> 🏆 705 만큼의 Contributions을 2023년에 했어요
- > 
-> 🚫 구직중이지 않아요.
- > 
-> 📜 20개의 Public Repository를 만들었어요. 
- > 
-> 🔑 5개의 Private Repository를 만들었어요. 
- > 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
@@ -89,22 +77,9 @@ Unknown Editor           0 secs              █░░░░░░░░░░�
 Mac                      16 mins             █████████████████████████   100.00 % 
 ```
 
-**저는 주로 Python 언어를 사용해요.** 
-
-```text
-Java                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-```
-
-
-
-
  Last Updated on 21/05/2023 16:31:37 UTC
 <!--END_SECTION:waka-->
-
+</p>
 <!--깃허브 language START
 [![Yana94Ko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko)](https://github.com/anuraghazra/github-readme-stats)
 깃허브 language END-->
