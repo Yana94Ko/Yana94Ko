@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <!--깃허브 상태 END-->
 
 <!-- wakatime START-->
-![Yana94Ko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko&layout=compact)
+![Yana94Ko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko&layout=compact&card_width=50%)
 <!-- wakatime START-->
 
 <!--START_SECTION:waka-->
