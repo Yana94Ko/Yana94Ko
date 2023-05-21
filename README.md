@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 [![Yana94Ko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko)](https://github.com/anuraghazra/github-readme-stats)
 깃허브 language END-->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhjbg0821&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--방문자 수 START-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYana94Ko&count_bg=%2360BBE5&title_bg=%23AAAAAA&icon=&icon_color=%23E7E7E7&title=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98%28hits+%7C+since+2023.05.21%29&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--방문자 수 END-->
