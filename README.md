@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 <!--깃허브 상태 START-->
 <picture white-space="nowrap">
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&theme=dark&card_width=500"
+  srcset="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&theme=dark&card_width=495"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&card_width=500"
+  srcset="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&card_width=495"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&card_width=500" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&card_width=495" />
 </picture>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko&layout=compact&width=200&height=200"/>
 <!--깃허브 상태 END-->
