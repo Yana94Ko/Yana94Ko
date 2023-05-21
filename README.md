@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <!-- wakatime START-->
 <!-- wakatime END-->
-<div font-size=10>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-16%20mins-blue)
 
@@ -79,7 +79,7 @@ Mac                      16 mins             ███████████�
 
  Last Updated on 21/05/2023 16:31:37 UTC
 <!--END_SECTION:waka-->
-</div>
+
 <!--깃허브 language START
 [![Yana94Ko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko)](https://github.com/anuraghazra/github-readme-stats)
 깃허브 language END-->
