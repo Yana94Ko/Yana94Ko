@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&card_width=200" />
 </picture>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko&layout=compact&card_width=250&height=200"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko&layout=compact&width=200&height=200"/>
 <!--깃허브 상태 END-->
 
 <!-- wakatime START-->
