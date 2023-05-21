@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 <!--깃허브 상태 START-->
-<picture>
+<picture white-space="nowrap">
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -32,8 +32,8 @@ Here are some ideas to get you started:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko&layout=compact&card_width=280"/>
 </picture>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko&layout=compact&card_width=280"/>
 <!--깃허브 상태 END-->
 
 <!-- wakatime START-->
