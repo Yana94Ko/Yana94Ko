@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--깃허브 상태 START-->
 <picture>
 <source
