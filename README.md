@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Yana94Ko=anuraghazra&layout=compact&width=50%)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yana94Ko&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
+
 
 <!--깃허브 상태 START
 <picture>
