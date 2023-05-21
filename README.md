@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Yana94Ko=anuraghazra&layout=compact&width=50%)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--깃허브 상태 START-->
+<!--깃허브 상태 START
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&theme=dark"
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true" />
 </picture>
-<!--깃허브 상태 END-->
+깃허브 상태 END-->
 
 
 <!--깃허브 language START
