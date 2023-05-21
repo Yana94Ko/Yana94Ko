@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <!--깃허브 상태 START-->
 <picture>
 <source
@@ -41,6 +38,9 @@ Here are some ideas to get you started:
 <!-- wakatime START-->
 ![Yana94Ko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko)
 <!-- wakatime START-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--깃허브 language START
 [![Yana94Ko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko)](https://github.com/anuraghazra/github-readme-stats)
