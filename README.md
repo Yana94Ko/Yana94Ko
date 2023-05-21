@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--깃허브 상태 START-->
+<!--깃허브 상태,wakatime START-->
 <picture white-space="nowrap">
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&theme=dark&card_width=495&count_private=true&custom_title=🧐&nbsp;Yana의&nbsp;Github&nbsp;현황은?"
@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&card_width=495&count_private=true&custom_title=🧐&nbsp;Yana의&nbsp;Github&nbsp;현황은?" />
 </picture>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko&layout=compact&custom_title=💻&nbsp;Yana가&nbsp;언어를&nbsp;사용한&nbsp;시간!&nbsp;%28&nbsp;since+2023.05.21&nbsp;%29"/>
-<!--깃허브 상태 END-->
+<!--깃허브 상태, wakatime END-->
 
 <!-- wakatime START-->
-<!-- wakatime START-->
-<p>
+<!-- wakatime END-->
+<div font-size=10>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-16%20mins-blue)
 
@@ -79,7 +79,7 @@ Mac                      16 mins             ███████████�
 
  Last Updated on 21/05/2023 16:31:37 UTC
 <!--END_SECTION:waka-->
-</p>
+</div>
 <!--깃허브 language START
 [![Yana94Ko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko)](https://github.com/anuraghazra/github-readme-stats)
 깃허브 language END-->
