@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--깃허브 상태 START-->
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&theme=dark"
@@ -25,3 +26,10 @@ Here are some ideas to get you started:
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true" />
 </picture>
+<!--깃허브 상태 END-->
+
+
+<!--깃허브 language START-->
+[![Yana94Ko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--깃허브 language START-->
