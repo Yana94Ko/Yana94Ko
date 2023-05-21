@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 <!--깃허브 상태 START-->
 <picture white-space="nowrap">
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&theme=dark&card_width=495&count_private=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&theme=dark&card_width=495&count_private=true&custom_title=🧐&nbsp;Yana의&nbsp;Github&nbsp;현황은?"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&card_width=495&count_private=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&card_width=495&count_private=true&custom_title=🧐&nbsp;Yana의&nbsp;Github&nbsp;현황은?"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&card_width=495&count_private=true&custom_title=🧐&nbsp;Yana의&nbsp;Github&nbsp;현황은?" />
