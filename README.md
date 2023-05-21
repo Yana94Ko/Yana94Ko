@@ -31,9 +31,9 @@ Here are some ideas to get you started:
   srcset="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&card_width=250" />
 </picture>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko&layout=compact&card_width=280&height=200"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko&layout=compact&card_width=250&height=200"/>
 <!--깃허브 상태 END-->
 
 <!-- wakatime START-->
