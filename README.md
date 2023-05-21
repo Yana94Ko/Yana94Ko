@@ -47,5 +47,6 @@ Here are some ideas to get you started:
   
   
 <!--방문자 수 START-->
-**![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYana94Ko&count_bg=%2360BBE5&title_bg=%23AAAAAA&icon=&align=right&icon_color=%23E7E7E7&title=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98%28hits+%7C+since+2023.05.21%29&edge_flat=false)**
+<div style="text-align: right"> 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYana94Ko&count_bg=%2360BBE5&title_bg=%23AAAAAA&icon=&align=right&icon_color=%23E7E7E7&title=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98%28hits+%7C+since+2023.05.21%29&edge_flat=false) </div>
 <!--방문자 수 END-->
