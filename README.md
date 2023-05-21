@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 </picture>
 <!--깃허브 상태 END-->
 
+<!-- wakatime START-->
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko)
+<!-- wakatime START-->
 
 <!--깃허브 language START
 [![Yana94Ko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko)](https://github.com/anuraghazra/github-readme-stats)
