@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=HI!&nbsp;I'm&nbsp;YANA!&fontAlign=center&color=gradient)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=HI!&nbsp;I'm&nbsp;YANA!&color=gradient)
 <!-- 스킬 START -->
 <p align="center">
   <span>Backend & DB & DevOps : </span><img src="https://skillicons.dev/icons?i=java,spring,gradle,mysql,mongodb,nodejs,aws,nginx,docker" /><br/>
