@@ -1,8 +1,8 @@
 
 <!-- 스킬 START -->
 <p align="center">
-  <span>Backend & DB & DevOps : </span><img src="https://skillicons.dev/icons?i=java,spring,gradle,mysql,mongodb,nodejs,aws,nginx,docker" />
-  <span>Frontend : </span><img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
+  <span>Backend & DB & DevOps : </span><img src="https://skillicons.dev/icons?i=java,spring,gradle,mysql,mongodb,nodejs,aws,nginx,docker" /><br/>
+  <span>Frontend : </span><img src="https://skillicons.dev/icons?i=html,css,js,react,redux" /><br/>
   <span>General : </span><img src="https://skillicons.dev/icons?i=git,github,idea,eclipse,vscode,figma,postman" />
 </p>
 <!-- 스킬 START -->
