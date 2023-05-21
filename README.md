@@ -4,6 +4,7 @@
   <h1>Backend & DB & DevOps : </span><img src="https://skillicons.dev/icons?i=java,spring,gradle,mysql,mongodb,nodejs,aws,nginx,docker" /><br/>
   <h1>Frontend : </span><img src="https://skillicons.dev/icons?i=html,css,js,react,redux" /><br/>
   <h1>General : </span><img src="https://skillicons.dev/icons?i=git,github,idea,eclipse,vscode,figma,postman" />
+  <br>
 </p>
 <!-- 스킬 START -->
 <!--
