@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko&layout=compact&card_width=50%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yana94Ko&layout=compact&card_width=280"/>
 </picture>
 <!--깃허브 상태 END-->
 
