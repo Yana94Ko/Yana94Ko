@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--깃허브 상태,wakatime START-->
+<!--깃허브 상태,wakatime START
 <picture white-space="nowrap">
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Yana94Ko&show_icons=true&theme=dark&card_width=495&count_private=true&custom_title=🧐&nbsp;Yana의&nbsp;Github&nbsp;현황은?&include_all_commits=true"
