@@ -1,8 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&text=HI!&nbsp;I'm&nbsp;YANA!&color=gradient)
 <!-- 스킬 START -->
 <p align="center">
-  <h1>Backend & DB & DevOps : </span><img src="https://skillicons.dev/icons?i=java,spring,gradle,mysql,mongodb,nodejs,aws,nginx,docker" /><br/>
-  <h1>Frontend : </span><img src="https://skillicons.dev/icons?i=html,css,js,react,redux" /><br/>
+  <h1>Backend : </span><img src="https://skillicons.dev/icons?i=java,spring,gradle,nodejs,js,nestjs" /><br/>
+  <h1>DB & Devops & ect : </span><img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,mongodb,aws,nginx,docker" /><br/>
+  <h1>Frontend : </span><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux" /><br/>
   <h1>General : </span><img src="https://skillicons.dev/icons?i=git,github,idea,eclipse,vscode,figma,postman" />
   <br/><br/>
 </p>
