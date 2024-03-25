@@ -1,12 +1,14 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&text=HI!&nbsp;I'm&nbsp;YANA!&color=gradient)
 <!-- 스킬 START -->
-<p align="center">
-  <h1>Backend : </span><img src="https://skillicons.dev/icons?i=java,spring,gradle,nodejs,js,nestjs" /><br/>
-  <h1>DB & Devops & ect : </span><img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,mongodb,aws,nginx,docker" /><br/>
-  <h1>Frontend : </span><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux" /><br/>
-  <h1>General : </span><img src="https://skillicons.dev/icons?i=git,github,idea,eclipse,vscode,figma,postman" />
+<h2>Languages & Frameworks</h2>
+<img src="https://skillicons.dev/icons?i=java,spring,,js,nodejs,react,,ts,nestjs,nextjs" />
+<h2>Databases</h2>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,mongodb" />
+<h2>Infra</h2>
+<img src="https://skillicons.dev/icons?i=aws,nginx,docker" />
+<h2>IDE & Tools</h2>
+<img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,,git,figma,postman" />
   <br/><br/>
-</p>
 <!-- 스킬 START -->
 <!--
 **Yana94Ko/Yana94Ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
