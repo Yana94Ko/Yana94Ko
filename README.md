@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 <!--방문자 수 START-->
 <p align="right">
   <br/>
-  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FYana94Ko&label=Visitors+%28since+2026.02.30%29&icon=github&color=%23fd9843&message=&style=for-the-badge&tz=Asia%2FSeoul">
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FYana94Ko&label=Visitors+%28since+2026.02.01%29&icon=github&color=%23fd9843&message=&style=for-the-badge&tz=Asia%2FSeoul">
 </p>
 <!--방문자 수 END-->
