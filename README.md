@@ -1,21 +1,23 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&text=HI!&nbsp;I'm&nbsp;YANA!&color=gradient)
+<h3> Currently working at... <a href="https://bisonai.com"><b>BISONAI_㈜더쓰리룰스</b></a> as Infra team - Devops Engineer </h3>
 <!-- 스킬 START -->
 <h2>Languages & Frameworks</h2>
-<img src="https://skillicons.dev/icons?i=java,spring,,js,nodejs,react,,ts,nestjs,nextjs" />
+<img src="https://skillicons.dev/icons?i=java,spring,,js,nodejs,react,,ts,nestjs,nextjs,,go" />
 <h2>Databases</h2>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,mongodb" />
 <h2>Infra</h2>
-<img src="https://skillicons.dev/icons?i=aws,nginx,docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes,linux,gcp,aws,nginx,docker" />
 <h2>IDE & Tools</h2>
 <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,,git,figma,postman" />
   <br/><br/>
-<!-- 스킬 START -->
+<!-- 스킬 END -->
+
 <!--
 **Yana94Ko/Yana94Ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -54,6 +56,6 @@ Here are some ideas to get you started:
 <!--방문자 수 START-->
 <p align="right">
   <br/>
-  <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYana94Ko&count_bg=%2360BBE5&title_bg=%23AAAAAA&icon=&align=right&icon_color=%23E7E7E7&title=%EA%B9%83%ED%97%88%EB%B8%8C+%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&nbsp;%28&nbsp;hits+%7C+since+2023.05.21&nbsp;%29&edge_flat=false"/>
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FYana94Ko&label=Visitors+%28since+2026.02.30%29&icon=github&color=%23fd9843&message=&style=for-the-badge&tz=Asia%2FSeoul">
 </p>
 <!--방문자 수 END-->
